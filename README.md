@@ -34,6 +34,6 @@
 ![Screen Shot 2023-05-07 at 7 46 36 PM](https://user-images.githubusercontent.com/102645083/236722733-a3df8894-9980-426f-a368-2c4cbdcb7bcb.png)
 ![Screen Shot 2023-05-07 at 7 46 58 PM](https://user-images.githubusercontent.com/102645083/236722875-5292ff7a-296b-424f-974e-cf13330b2650.png)
 
-# Sometimes the saem object will be detected multiple times. Non-max supression solves multiple counting by removing the box with the lower confidence probability when the UoI between 2 boxes with the same label si above some threshold.
+# Sometimes the same object will be detected multiple times. Non-max supression solves multiple counting by removing the box with the lower confidence probability when the UoI between 2 boxes with the same label si above some threshold.
 ![Screen Shot 2023-05-07 at 7 51 52 PM](https://user-images.githubusercontent.com/102645083/236723392-fe2fa87c-c9dd-4ccb-98e5-99d66bfa55c9.png)
 
