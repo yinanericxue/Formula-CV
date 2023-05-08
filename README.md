@@ -6,6 +6,7 @@
 
 # YOLO stands for "you only look once" since it processes an entire image at once into a CNN. and this neural network predicts the labels, bounding boxes, and confidence probabilities for objects in the image.
 ![Screen Shot 2023-05-07 at 6 08 42 PM](https://user-images.githubusercontent.com/102645083/236713070-eab229d3-486d-4efd-bca3-cba5b67523a2.png)
+![Screen Shot 2023-05-07 at 7 35 20 PM](https://user-images.githubusercontent.com/102645083/236721623-cb0cd33d-3a53-4a44-a479-5cc05f57fe01.png)
 
 # The first step of YOLO is to divide an image into sells with an S x S grid.
 ![Screen Shot 2023-05-07 at 6 14 54 PM](https://user-images.githubusercontent.com/102645083/236713544-f8c76a5e-590b-419f-849c-46c3657a002d.png)
@@ -26,3 +27,5 @@
 
 # If there are more bounding boxes assigned per cell, there are simply more values in the vector y.
 ![Screen Shot 2023-05-07 at 7 33 36 PM](https://user-images.githubusercontent.com/102645083/236721155-88badb61-8989-4670-afa7-934486074b7e.png)
+
+![Screen Shot 2023-05-07 at 7 34 47 PM](https://user-images.githubusercontent.com/102645083/236721234-54a7d901-2ef4-49ec-9a0c-3d6eaaf187f6.png)
