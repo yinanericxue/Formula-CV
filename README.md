@@ -23,3 +23,6 @@
 
 ![Screen Shot 2023-05-07 at 7 30 08 PM](https://user-images.githubusercontent.com/102645083/236720717-a0c69560-03b2-4d82-a57a-3d22bfc20872.png)
 ![Screen Shot 2023-05-07 at 7 30 21 PM](https://user-images.githubusercontent.com/102645083/236720737-1f050ed8-854d-4323-8f86-4ff311657a25.png)
+
+# If there are more bounding boxes assigned per cell, there are simply more values in the vector y.
+![Screen Shot 2023-05-07 at 7 33 36 PM](https://user-images.githubusercontent.com/102645083/236721155-88badb61-8989-4670-afa7-934486074b7e.png)
