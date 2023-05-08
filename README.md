@@ -10,3 +10,10 @@
 
 # The first step of YOLO is to divide an image into sells with an S x S grid.
 ![Screen Shot 2023-05-07 at 6 10 52 PM](https://user-images.githubusercontent.com/102645083/236713230-aff2556a-33ad-48cd-bb89-106fbdee5146.png)
+
+# The next step is for each cell to predict B bounding boxes. It's okay for a small section of a bounding box to be in another cell.
+![Screen Shot 2023-05-07 at 6 11 49 PM](https://user-images.githubusercontent.com/102645083/236713296-5ac24f5a-19d1-400f-8c86-cac88971af4b.png)
+
+# The next step is to return all the bounding boxes above the confidence threshold (say 0.90).![Screen Shot 2023-05-07 at 6 13 38 PM](https://user-images.githubusercontent.com/102645083/236713446-f62ea850-bdf2-4ccc-8f90-2426bb7050ea.png)
+
+# It's important to note that in practice, we want larger S and B values to identify more objects.
