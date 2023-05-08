@@ -19,7 +19,7 @@
 
 # It's important to note that in practice, we want larger S and B values to identify more objects.
 
-# Let's have an example. There are 3 x 3 cells, and each cell predicts one bounding box, and objects are either dog = 1 or human = 2. For each cell, the CNN predicts a vector y.
+# Let's have an example. There are 3 x 3 cells, and each cell predicts one bounding box, and objects are either dog = 1 or human = 2. For each cell, the CNN predicts a vector y. 
 
 ![Screen Shot 2023-05-07 at 7 30 08 PM](https://user-images.githubusercontent.com/102645083/236720717-a0c69560-03b2-4d82-a57a-3d22bfc20872.png)
 ![Screen Shot 2023-05-07 at 7 30 21 PM](https://user-images.githubusercontent.com/102645083/236720737-1f050ed8-854d-4323-8f86-4ff311657a25.png)
